@@ -1,0 +1,5 @@
+C:\Users\Lab AyED\Documents\10-BalducciLedo_V\Etapa0\9_CelciusFarenheit\9_CelciusFarenheit\bin\Debug\9_CelciusFarenheit.exe.config
+C:\Users\Lab AyED\Documents\10-BalducciLedo_V\Etapa0\9_CelciusFarenheit\9_CelciusFarenheit\bin\Debug\9_CelciusFarenheit.exe
+C:\Users\Lab AyED\Documents\10-BalducciLedo_V\Etapa0\9_CelciusFarenheit\9_CelciusFarenheit\bin\Debug\9_CelciusFarenheit.pdb
+C:\Users\Lab AyED\Documents\10-BalducciLedo_V\Etapa0\9_CelciusFarenheit\9_CelciusFarenheit\obj\Debug\9_CelciusFarenheit.exe
+C:\Users\Lab AyED\Documents\10-BalducciLedo_V\Etapa0\9_CelciusFarenheit\9_CelciusFarenheit\obj\Debug\9_CelciusFarenheit.pdb
