@@ -3,3 +3,6 @@ C:\Users\Lab AyED\Documents\10-BalducciLedo_V\7_MiResto\7_MiResto\bin\Debug\7_Mi
 C:\Users\Lab AyED\Documents\10-BalducciLedo_V\7_MiResto\7_MiResto\bin\Debug\7_MiResto.pdb
 C:\Users\Lab AyED\Documents\10-BalducciLedo_V\7_MiResto\7_MiResto\obj\Debug\7_MiResto.exe
 C:\Users\Lab AyED\Documents\10-BalducciLedo_V\7_MiResto\7_MiResto\obj\Debug\7_MiResto.pdb
+C:\Users\Lab AyED\Documents\10-BalducciLedo_V\AyED-2026-42\Etapa1\7_MiResto\7_MiResto\bin\Debug\7_MiResto.exe.config
+C:\Users\Lab AyED\Documents\10-BalducciLedo_V\AyED-2026-42\Etapa1\7_MiResto\7_MiResto\obj\Debug\7_MiResto.exe
+C:\Users\Lab AyED\Documents\10-BalducciLedo_V\AyED-2026-42\Etapa1\7_MiResto\7_MiResto\obj\Debug\7_MiResto.pdb
