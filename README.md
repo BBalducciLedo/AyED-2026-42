@@ -5,6 +5,6 @@
 
 Contenidos:
 * Etapa 1: Fundamentos de Programacion
-* Etapa 2
+* Etapa 2: Estructura de Control
 * Etapa 3
 * Etapa 4
